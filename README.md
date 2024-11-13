@@ -47,6 +47,6 @@ pip install ./vpn_config_parser-0.1.0-cp312-none-win_amd64.whl
 Перед запуском убедитесь что вы находитесь в виртуальном окружении (bash пишет в начале строки __*(.venv)* ... $__ )
 
 ```bash
-python3.8 ./src # на linux
+python ./src # на linux
 py ./src # на windows
 ```
